@@ -4,5 +4,5 @@ This repository contains a PyTorch implementation of the CIFAR10 image classific
 
 <br>
 
-#### Just for learning purpose
+##### Just for learning purpose
 
